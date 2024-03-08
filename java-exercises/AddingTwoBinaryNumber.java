@@ -1,7 +1,7 @@
 
-// Write a program that display the 1 to 9 tables .
+// Write a program that adding two binary number.
 // Name: Konik Rahman.
-// Date: 07-03-2024
+// Date: 08-03-2024
 
 import java.util.Scanner;
 
